@@ -22,3 +22,5 @@ title/.*一键访问国外网站/
 *://*.iteye.com/*
 *://baidu.com/*
 *://*.xue51.com/*
+@3*://*.runoob.com/*
+@2*://*.github.com/*
