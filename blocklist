@@ -1,0 +1,24 @@
+*://*.hixianchang.com/*
+*://*.baidu.com/*
+*://*.sohu.com/*
+*://*.zol.com.cn/*
+*://*.qq.com/*
+*://*.gaodun.com/*
+*://*.huawei.com/*
+*://*.pc6.com/*
+*://*.biomarker.com.cn/*
+*://*.baidu.com/*
+*://*/so.php
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
+title/^小.(百科|知识)网$/
+title/^.*[ ]-[ ]小.(百科|知识)网$/
+title/.*点击一次就可以出国/
+title/.*一键访问国外网站/
+*://*.toutiao.com/*
+*://*.iteye.com/*
+*://baidu.com/*
+*://*.xue51.com/*
