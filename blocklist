@@ -29,4 +29,20 @@ title/.*一键访问国外网站/
 @4*://*.quora.com/*
 @4*://*.ted.com/*
 @4*://*.github.com/*
-@4*://*.stackexchange.com/*
+@4*://*.stackexchange.com/*4
+@4*://*.coursera.org/*
+@4*://*.khanacademy.org/*
+@4*://*.udemy.com/*
+@4*://*.medium.com/tag/technology/*
+ArXiv (科学论文): @4*://*.arxiv.org/*
+@4*://*.nationalgeographic.com/*
+@4*://*.nytimes.com/*
+@4*://*.theguardian.com/*
+@4*://*.bbc.co.uk/*
+@4*://*.forbes.com/*
+@4*://*.businessinsider.com/*
+@4*://*.theverge.com/*
+@4*://*.qz.com/*
+@4*://*.scientificamerican.com/*
+@4*://mp.weixin.qq.com/*
+@4*://wenda.tianya.cn/*
